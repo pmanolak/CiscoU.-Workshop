@@ -3,6 +3,7 @@
 # Cisco Networking Academy Partner Workshop | Automation and AI
 
 ## A Hands-On Upskilling Workshop for NetAcad Instructors and Partners
+## Guide Designed for an In-Person Experience
 
 <p align="center">
 <a href="./day1/01-ai-in-networking/1.md"><img src="./images/start.png" width="300px"></a>

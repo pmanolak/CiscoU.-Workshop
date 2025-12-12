@@ -9,13 +9,13 @@ PASSWORD = os.getenv("PASSWORD")
 devices = [
     {
         "device_type": "cisco_ios",
-        "host": "172.27.12.1",  # R1's IP address
+        "host": "10.1.1.201",  # R1's IP address
         "username": USERNAME,   # Login username
         "password": PASSWORD,   # Login password
     },
     {
         "device_type": "cisco_ios",
-        "host": "172.27.13.3",  # R3's IP address
+        "host": "10.1.1.203",  # R3's IP address
         "username": USERNAME,   # Login username
         "password": PASSWORD,   # Login password
     },

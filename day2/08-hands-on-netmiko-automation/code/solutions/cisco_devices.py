@@ -18,21 +18,21 @@ devices = [
     {
         "name": "R1",
         "device_type": "cisco_ios",
-        "host": "172.27.12.1",
+        "host": "10.1.1.201",
         "username": USERNAME,
         "password": PASSWORD,
     },
     {
         "name": "R2",
         "device_type": "cisco_ios",
-        "host": "172.27.12.2",
+        "host": "10.1.1.202",
         "username": USERNAME,
         "password": PASSWORD,
     },
     {
         "name": "R3",
         "device_type": "cisco_ios",
-        "host": "172.27.13.3",
+        "host": "10.1.1.203",
         "username": USERNAME,
         "password": PASSWORD,
     }

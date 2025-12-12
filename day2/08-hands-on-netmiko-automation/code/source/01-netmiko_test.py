@@ -8,7 +8,7 @@ PASSWORD = os.getenv("PASSWORD")
 # Hint: this can't be arbitrary, but references are found in the code
 #TODO = {
     "device_type": "cisco_ios",   # Platform type (Cisco IOS in this case)
-    "host": "172.27.12.2",        # Device IP address (R2)
+    "host": "10.1.1.202",        # Device IP address (R2)
     "username": USERNAME,       # Login username
     "password": PASSWORD,       # Login password
 }

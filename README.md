@@ -37,14 +37,13 @@
 
 ### Assets
 
-To fully complete this workshop, you will need access to a Cisco Modeling Labs server running version 2.9 or later, as the lab topologies use Docker containers, which are only supported in CML 2.9 and later.
+To fully complete this workshop, you will need a laptop with internet access.  You will be provided a Cisco Modeling Labs server and Ubuntu jumphost that are available through a web browser (no VPN is required).  This environment will be provided per user and will contain everything required for the workshop.
+
+If you wish to run this on your own after the event, you will need access to a Cisco Modeling Labs server running version 2.9 or later, as the lab topologies use Docker containers, which are only supported in CML 2.9 and later.  The full instructions for this are in the [main](http://cs.co/cuw) branch of this repository and they will differ from the in-person experience as it pertains to the automation and automation + AI sections.  Please reference this branch, as the **in-person** branch you're currently in will not cover these topics.
 
 The two lab topologies are available for download here:
 
+<!-- TODO: Need to update reference URLs for in-person topologies. -->
 - [Hands On Lab: AI Generated Network Configurations](https://raw.githubusercontent.com/CiscoLearning/CiscoU.-Workshop/refs/heads/main/assets/Hands_On_Lab__AI_Generated_Network_Configurations.yaml
 )
 - [Hands On Lab: Python Network Automation](https://raw.githubusercontent.com/CiscoLearning/CiscoU.-Workshop/refs/heads/main/assets/Hands_On_Lab__Python_Network_Automation.yaml)
-
-If you have your own instance of Cisco Modeling Labs 2.9, you will need to follow [these instructions](https://github.com/CiscoDevNet/cml-community/tree/master/node-definitions/opensource/code-server-custom-4.102) to install the [CodeServer](https://hub.docker.com/r/linuxserver/code-server) container, which provides a web-based IDE for Python development.
-
-If you do not have a Cisco Modeling Labs server available, a virtual image for a variety of hypervisors is available for download [at this Box link](https://cisco.app.box.com/folder/340062289300?s=hmrhjoshhzez3vlzdisvk0s9frn0lh5c).  This will provide an instance of Cisco Modeling Labs Free 2.9, with the containers already installed.

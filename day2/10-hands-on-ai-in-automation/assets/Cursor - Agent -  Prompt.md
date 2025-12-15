@@ -6,13 +6,14 @@ The Context I need you to follow:
 - where there is a fill in the blanks line of code make sure you add a `TODO:` with instructions on what's needed to properly complete this line of code testing their basic automation and python knowledge 
 - Upon completion, the automation scripts need to run successfully 
 - CCNA blueprint can be found in the `assets` folder labeled `200-301-CCNA-v1.1.pdf` in this working directory 
-- Yaml file labeled `devices.yaml` can be found in the `assets folder` , this is an export of the topology used in our CML Lab. for all examples that will need access to a device, leverage the config defined in the Yaml file. 
+- Yaml file labeled `devices.yaml` can be found in the `assets folder` , this is an export of the topology used in our Cisco Modeling Labs based lab. for all examples that will need access to a device, leverage the config defined in the Yaml file. 
 
 Requirements:
 1. IOS commands should be read-only
 2. use `R3` router for the tasks
-3. Never change device configuration
-4. Generate a `solution` folder with the completed tasks for the Instructors to use
+3. Connections to the devices will need to be done using the Eth0/2 interface
+4. Never change device configuration
+5. Generate a `solution` folder with the completed tasks for the Instructors to use
 
 Constraints:
 - only use native RESTCONF models

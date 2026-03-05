@@ -10,13 +10,11 @@
 
 ### Meet your Learn with Cisco Team
 
-![](./images/instructors.png)
-
 - **Patrick Gargano**, Lead Content Advocate | Learn with Cisco
 - **Quinn Snyder**, Senior Technical Advocate | Learn with Cisco
 - **Kareem Iskander**, Principal Technical Advocate | Learn with Cisco
 - **Hank Preston**, Distinguished Architect | Learn with Cisco
-- **Alexander Stevenson**, Technical Advocate | Learn with Cisco
+
 
 ### What you will learn
 

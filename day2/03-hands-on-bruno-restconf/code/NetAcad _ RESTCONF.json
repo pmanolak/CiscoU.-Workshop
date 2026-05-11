@@ -618,7 +618,7 @@
       "variables": [
         {
           "name": "hostname",
-          "value": "52.28.0.80",
+          "value": "44.201.40.38",
           "enabled": true,
           "secret": false,
           "type": "text"
